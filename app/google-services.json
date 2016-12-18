@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "478452795133",
+    "firebase_url": "https://firbasestorageexample.firebaseio.com",
+    "project_id": "firbasestorageexample",
+    "storage_bucket": "firbasestorageexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478452795133:android:9d4fb0c000946955",
+        "android_client_info": {
+          "package_name": "ryan.firbasestorageexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478452795133-n08tlu3fbeurgale75s96fvas1bflcn9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ryan.firbasestorageexample",
+            "certificate_hash": "E5DDBB3EE2784E65E92BF1B40D787A0DBA48F5F2"
+          }
+        },
+        {
+          "client_id": "478452795133-l7t0ootl3oac4g6r6mut3amanbgq2alk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvPV2zwTWjMC_PNXHesuWWVdKV_BKmyE0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478452795133-l7t0ootl3oac4g6r6mut3amanbgq2alk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
